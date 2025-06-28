@@ -14,5 +14,10 @@ MNIST-multi-label-classification-with Pytorch DeepLearning
 - 참고: https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST
 
 # Result
+- Using DNN (Linear Layers)
 Average Test Loss: 0.0006
 Accuracy: 9808/10000 (98.08%)
+
+- Using CNN
+Average Test Loss: 0.0001
+Accuracy: 9947/10000 (99.47%)
